@@ -1,4 +1,4 @@
-/ Only change code below this line
+// Only change code below this line
 class Microsoft {
     constructor(name) {
       this.name = name;
